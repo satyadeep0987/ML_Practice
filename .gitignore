@@ -1,3 +1,4 @@
 /Virtual_Env
 /.DS_Store
 *.ipynb_checkpoints
+*.hypothesis
