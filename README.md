@@ -28,6 +28,13 @@
         ```python
         python3 -m venv Virtual_Env
         ```
+
+    * Activating Virtual Environment
+
+        ```python
+        source Virtual_Env/bin/activate
+        ```
+
 2. Create a git repo so that you can track your progress in a better way and can show your work to othrs.
 And its beter to add two file i.e **README.md** where you can put all your instruction of the process what is there and what you are going to do and **.gitignore** to exclude unessary folders and file to be tracked into the repo.
 
