@@ -9,5 +9,5 @@
     ```python
         pip install pandas
     ```
-2. Creating a ** pandas.ipynb ** jupiter notbook to practice pandas.
+2. Creating a ** pandas.ipynb ** jupyter notbook to practice pandas.
 
