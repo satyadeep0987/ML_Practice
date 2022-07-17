@@ -9,7 +9,7 @@
         python3 --version
         ```
 
-        If not, then download nad install it from below link:
+        If not, then download and install it from below link:
 
         [Python Download](https://www.python.org/downloads/)
 
@@ -31,3 +31,6 @@
 2. Create a git repo so that you can track your progress in a better way and can show your work to othrs.
 And its beter to add two file i.e **README.md** where you can put all your instruction of the process what is there and what you are going to do and **.gitignore** to exclude unessary folders and file to be tracked into the repo.
 
+3. Creating Pandas folder to Proceed with pandas practice.
+
+    [Pandas Practice](https://github.com/satyadeep0987/ML_Practice/tree/main/Pandas)
