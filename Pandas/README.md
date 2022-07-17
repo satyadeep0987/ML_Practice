@@ -11,3 +11,11 @@
     ```
 2. Creating a ** pandas.ipynb ** jupyter notbook to practice pandas.
 
+3. Check Pandas dependencies by runninf below command:
+
+    > Make sure you installed pytest >= 6.0 and Hypothesis >= 3.58, then run:
+
+    ```python
+        import pandas as pd
+        pd.test()
+    ```
