@@ -1,4 +1,5 @@
-*Virtual_Env
+ml_venv
+*.vscode
 *.DS_Store
 *.ipynb_checkpoints
 *.hypothesis
